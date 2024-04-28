@@ -38,3 +38,5 @@ The model performance can be evaluated using metrics such as accuracy, precision
 
 Conclusion
 Predicting customer churn is crucial for businesses to retain their customers and maintain profitability. By leveraging Artificial Neural Networks, we can build predictive models that help identify customers at risk of leaving the bank. This project serves as a starting point for implementing such predictive systems in real-world scenarios.
+
+Inspired by Kirill Eremenko (Data Scientist & Forex Systems Expert) and Hadelin de Ponteves (Data Scientist)
